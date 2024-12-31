@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(247, 241, 236);
+}
+
+table {
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+  border-spacing: 0px;
+ width: 90%;
+margin-left: auto;
+margin-right: auto;}
+
+.uppercase {
+  text-transform: uppercase;
+  font-size: 3em;
+text-align: center;}
+
+.border1 {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  font-weight: bold;
+ text-align: center;}
+
+.Aheading {
+  text-transform: uppercase;
+}
+
+.Articleheading {
+  border-right: 3px solid black;
+  font-size: 2em;
+}
+
+.border2 {
+  border-left: 3px solid black;
+}
+
+.border3 {
+  border-right: 3px solid black;
+}
+
+.border4 {
+  border-right: 3px solid black;
+}
+
+.child1 {
+  text-transform: uppercase;
+  font-size: 2em;
+}
+
+.border5 {
+ 
+  font-size: 3em;
+}
+
+.Date {
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 20px;
+}
+
